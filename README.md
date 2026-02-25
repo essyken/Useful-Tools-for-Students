@@ -54,7 +54,7 @@ Visual Studio Code (VS Code) is a free, lightweight, and powerful source code ed
 2. Posters & flyers
 3. Presentations
 4. Businesss cards & marketing materials
-5. Certifates
+5. Certificates
 6. YouTube thumbnails
 7. Infographics
 
