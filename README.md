@@ -85,48 +85,19 @@ Visual Studio Code (VS Code) is a free, lightweight, and powerful source code ed
 - Takes time to learn
 - Requires internet for full functionality
 - Can become messy if poorly structured
-<h2>Tables of Content</h2>
 
-1. Introduction
-2. VS Code
-3. Canva
-4. Notion
 
-<h2>1. Introduction</h2>
-This guide covers useful tools that student should know about.
+## Canva
 
-<h2>2. VS Code</h2>
-
-Visual Studio Code (VS Code) is a free, lightweight, and powerful source code editor developed by Microsoft. It’s one of the most popular tools for programming today. VS Code supports almost every programming language, including:
-
-- Python
-- JavaScript / TypeScript
-- C / C++
-- Java
-- HTML / CSS
-
-<H3>Key Features</H3>
-
-1. Free & Open Source
-2. Windows, macOS, Linux suppor
-3. IntelliSense (smart code completion)
-4. Built-in Git integration
-5. Extentions marketplace (thousands of add-ons)
-6. Integrated terminal
-7. Debugger support
-8. Custom themes & settings
-
-<h2>2. Canva</h2>
-
--**Canva** is an online graphic design platform that allows people to create visual content easily. It was founded in 2013 by *Sydney* by *Melanie perkins*,*Cliff Obrecht* and *Cameron Adams*. Instead of designing from scratch like in advanced software, Canva gives layouts that you can edit by;
+**Canva** is an online graphic design platform that allows people to create visual content easily. It was founded in 2013 by *Sydney* by *Melanie perkins*,*Cliff Obrecht* and *Cameron Adams*. Instead of designing from scratch like in advanced software, Canva gives layouts that you can edit by;
 
 - Changing texts.
 - Adding images.
 - Choosing colors.
 - Dragging elements into place.
 
-<h3>What you can create with Canva.</h3>
--Canva allows you to desigh;
+## What you can create with Canva.</h3>
+**Canva allows you to design;**
 
 1. Social media posts
 2. Posters & flyers
@@ -136,7 +107,7 @@ Visual Studio Code (VS Code) is a free, lightweight, and powerful source code ed
 6. YouTube thumbnails
 7. Infographics
 
-<h3>Key Features.</h3>
+## Key Features
 
 1. Drag-and-drop editor
 2. Thousands of templates
@@ -145,17 +116,17 @@ Visual Studio Code (VS Code) is a free, lightweight, and powerful source code ed
 5. Brand kits for businesses
 6. AI Tools
 
-<h3>Importance of Canva.</h3>
-<h4>1. It is easy for beginners.</h4>
+## Importance of Canva
+**It is easy for beginners**
 -You don't need advanced design skills. The drag-and-drop system helps anyone create professional-looking designs
 
-<h4>2. It saves on Time.</h4>
+**It saves on Time**
 -Ready-made templates reduce the time needed to design from scratch
 
-<h4>3. It is Cost-Effective.</h4>
+**It is Cost-Effective**
 -There's a free version, which is helpful for students, startups, and email businesses.
 
-<h4>4. It supports learning.</h4>
+**It supports learning**
 -If you're learning graphic design, Canva helps you understands;
 
 1. Layout
@@ -163,15 +134,15 @@ Visual Studio Code (VS Code) is a free, lightweight, and powerful source code ed
 3. Color combinations
 4. Visual balance
 
-<h4>5. It helps build a Personal Brands.</h4>
+**It helps build a Personal Brands**
 -One can create;
 
 1. Logos
 2. Social media content
 3. Portfolios
 4. Presentation slides
-
-<h4>6. It helps in collaboration.</h4>
+   
+**It helps in collaboration**
 -The teams can design together online from different location.
 
 
