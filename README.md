@@ -1,4 +1,3 @@
-# Useful-Tools-for-Students
 A collaboration Project
 Useful-Tools-for-Students
 
